@@ -180,6 +180,12 @@ BEGIN
 END //
 DELIMITER;
 ```
+
+# Team Members And Contribution
+* **Jerin Nur Khan Achol:** Focused on creating triggers, views, and implementing complex joins and stored procedures. Additionally, worked on compiling and structuring the project report.
+* **Sohi Bilkis Binte Yer:** Worked on implementing SQL operators and nested SQL queries to enhance data retrieval and manipulation capabilities. And Worked on HAVING clause and aggregate functions for advanced data analysis.
+* **Sadia Sumona Shanta:** Responsible for designing and creating database tables.
+* **Azra Jerin:** Responsible for inserting sample data to support functionality testing.
 # License
 
 This project is licensed under Team Venus. See the LICENSE file for more information.
